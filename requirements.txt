@@ -1,0 +1,9 @@
+matplotlib
+pandas
+Pillow
+streamlit
+mysql.connector
+openpyxl
+streamlit-authenticator
+plotly
+altair
